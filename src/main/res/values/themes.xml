@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MITRA" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Optional colors -->
+        <item name="colorPrimary">#2979FF</item>
+        <item name="android:statusBarColor">#121212</item>
+    </style>
+
+    <style name="Theme.Mitra" parent="Theme.MITRA" />
+</resources>
