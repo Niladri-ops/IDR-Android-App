@@ -28,8 +28,6 @@ Offline Map
 - 2-layer GRU
 - 64 hidden units
 - 44,932 learned parameters
-- Input: [1, 30, 15]
-- Output: [1, 4]
 - ONNX Runtime Android
 
 ## Tech Stack
